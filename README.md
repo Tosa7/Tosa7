@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b> SIEM <b>
+  - [Honeypot + SIEM  ](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Active Directory </b>
   - [Active Directory Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> Python </b>
   - [CMD Tool](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b> SIEM <b>
 - <b> Networking Projects <b>
-  - [Honeypot + SIEM  ](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 YouTube Demo Videos</h2>
 
 
