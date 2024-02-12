@@ -5,7 +5,7 @@
 - <b> SIEM <b>
   - [Honeypot + SIEM  ](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Active Directory </b>
-  - [Active Directory Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home lab](https://github.com/Tosa7/Active-Directory-Lab)
 - <b> Python </b>
   - [CMD Tool](https://github.com/Tosa7/CMD-Tool/tree/907e2cd69b89870d575dbe2a7369793c378eed1b)
 - <b> Networking Projects <b>
