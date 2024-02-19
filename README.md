@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> SIEM <b>
-  - [Honeypot + SIEM  ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Honeypot + SIEM  ](https://github.com/Tosa7/Azure-Attack-Map---SIEM-Honey-Pot)
 - <b>Active Directory </b>
   - [Active Directory Home lab](https://github.com/Tosa7/Active-Directory-Lab)
 - <b> Python </b>
