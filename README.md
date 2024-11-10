@@ -4,7 +4,7 @@
 
 - <b> SIEM <b>
   - [Honeypot + SIEM  ](https://github.com/Tosa7/Azure-Attack-Map---SIEM-Honey-Pot)
-  - [ Elastic Stack SIEM Dashboard  ](https://github.com/Tosa7/Azure-Attack-Map---SIEM-Honey-Pot)
+  - [ Elastic Stack SIEM Dashboard  ](https://github.com/Tosa7/SIEM-Dash)
 - <b>Active Directory </b>
   - [Active Directory Home lab](https://github.com/Tosa7/Active-Directory-Lab)
 - <b> Python </b>
