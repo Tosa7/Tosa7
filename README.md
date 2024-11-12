@@ -11,6 +11,8 @@
   - [CMD Tool](https://github.com/Tosa7/CMD-Tool/tree/907e2cd69b89870d575dbe2a7369793c378eed1b)
 - <b> Hack The Box Machines <b>
   - [Mongod](https://github.com/Tosa7/Mongod)
+- <b> Hack The Box Machines <b>
+  - [Synced](https://github.com/Tosa7/Synced/tree/main)
 <h2>📺 YouTube Demo Videos</h2>
 
 
