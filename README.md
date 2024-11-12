@@ -9,7 +9,8 @@
   - [Active Directory Home lab](https://github.com/Tosa7/Active-Directory-Lab)
 - <b> Python </b>
   - [CMD Tool](https://github.com/Tosa7/CMD-Tool/tree/907e2cd69b89870d575dbe2a7369793c378eed1b)
-- <b> Networking Projects <b>
+- <b> Hack The Box Machines <b>
+  - [Mongod](https://github.com/Tosa7/Mongod)
 <h2>📺 YouTube Demo Videos</h2>
 
 
